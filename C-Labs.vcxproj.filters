@@ -24,6 +24,9 @@
     <ClCompile Include="salary_calculator_3.20.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="gas_mileage_calculator_3.16.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h">

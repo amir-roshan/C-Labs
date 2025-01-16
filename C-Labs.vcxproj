@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="gas_mileage_calculator_3.16.c" />
     <ClCompile Include="loan_calculator_3.19.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="salary_calculator_3.20.c" />

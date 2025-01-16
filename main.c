@@ -6,6 +6,5 @@
 #include "calculator.h"
 
 int main() {
-	calculateSalary();
-	calculateLoanInterest();
+	calculateGasMileage();
 }
