@@ -27,9 +27,18 @@
     <ClCompile Include="gas_mileage_calculator_3.16.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ploy_two_5.07.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dice_game_5.47.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game_launcher.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

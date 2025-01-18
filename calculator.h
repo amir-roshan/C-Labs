@@ -12,5 +12,6 @@ static const float OVERTIME_RATE = 1.5f;
 void calculateLoanInterest(void);
 void calculateSalary(void);
 void calculateGasMileage(void);
+void callPolyTwo(void);
 
 #endif 

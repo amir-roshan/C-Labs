@@ -4,7 +4,8 @@
 
 #include <stdio.h>
 #include "calculator.h"
+#include "game_launcher.h"
 
 int main() {
-	calculateGasMileage();
+	diceGame();
 }

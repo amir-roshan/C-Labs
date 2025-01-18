@@ -127,13 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dice_game_5.47.c" />
     <ClCompile Include="gas_mileage_calculator_3.16.c" />
     <ClCompile Include="loan_calculator_3.19.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="ploy_two_5.07.c" />
     <ClCompile Include="salary_calculator_3.20.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h" />
+    <ClInclude Include="game_launcher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
