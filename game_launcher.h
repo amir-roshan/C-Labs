@@ -4,6 +4,8 @@
 
 #ifndef GAME_LAUNCHER_H
 #define GAME_LAUNCHER_H
+
 void diceGame(void);
+void diceRolling(void);
 
 #endif 

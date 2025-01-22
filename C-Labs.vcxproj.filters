@@ -33,12 +33,21 @@
     <ClCompile Include="dice_game_5.47.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="dice_rolling_6.19.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CArrayFunctionPractise.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="game_launcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="in_class.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
