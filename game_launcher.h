@@ -7,5 +7,6 @@
 
 void diceGame(void);
 void diceRolling(void);
+void romanDecoder(void);
 
 #endif 
