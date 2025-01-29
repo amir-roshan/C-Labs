@@ -6,5 +6,6 @@
 #define	IN_CLASS_H
 
 void cArrayFunctionPractise(void);
+void StringFunction(void);
 
 #endif 
