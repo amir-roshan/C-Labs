@@ -45,6 +45,9 @@
     <ClCompile Include="c_string_functions_start.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="swap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h">

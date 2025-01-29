@@ -7,5 +7,6 @@
 
 void cArrayFunctionPractise(void);
 void StringFunction(void);
+void sweep(void);
 
 #endif 
