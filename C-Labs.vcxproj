@@ -131,6 +131,7 @@
     <ClCompile Include="c_string_functions_start.c" />
     <ClCompile Include="dice_game_5.47.c" />
     <ClCompile Include="dice_rolling_6.19.c" />
+    <ClCompile Include="duplicate_elimination.c" />
     <ClCompile Include="gas_mileage_calculator_3.16.c" />
     <ClCompile Include="loan_calculator_3.19.c" />
     <ClCompile Include="main.c" />

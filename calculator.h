@@ -13,5 +13,6 @@ void calculateLoanInterest(void);
 void calculateSalary(void);
 void calculateGasMileage(void);
 void callPolyTwo(void);
+void duplicateElimination(void);
 
 #endif 
