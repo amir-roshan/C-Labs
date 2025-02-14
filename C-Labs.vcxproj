@@ -139,6 +139,7 @@
     <ClCompile Include="roman_decoder.c" />
     <ClCompile Include="salary_calculator_3.20.c" />
     <ClCompile Include="swap.c" />
+    <ClCompile Include="turtle_game.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h" />

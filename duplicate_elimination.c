@@ -9,6 +9,8 @@
 #include "calculator.h"
 
 #define SIZE 20
+#define ROWS 4
+#define COLS 5
 
 int isUnique(int ResultArray[], int value); // Function prototype
 void displayArray(int array[]); // Function prototype
@@ -64,8 +66,8 @@ void displayArray(int resultArray[]) {
 	printf("All of the unique numbers found are: \n");
 	puts("");
 
-	int rows = 4;
-	int cols = 5;
+	int rows = ROWS;
+	int cols = COLS;
 	for (int i = 0; i < rows; i++) {
 		for (int j = 0; j < cols; j++) {
 			int value = resultArray[i * cols + j];

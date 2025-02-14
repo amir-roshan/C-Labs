@@ -8,5 +8,6 @@
 void diceGame(void);
 void diceRolling(void);
 void romanDecoder(void);
+void turtle_game(void);
 
 #endif 

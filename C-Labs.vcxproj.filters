@@ -51,6 +51,9 @@
     <ClCompile Include="duplicate_elimination.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="turtle_game.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h">
