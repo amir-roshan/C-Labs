@@ -9,5 +9,6 @@ void diceGame(void);
 void diceRolling(void);
 void romanDecoder(void);
 void turtle_game(void);
+void poker(void);
 
 #endif 

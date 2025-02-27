@@ -10,7 +10,7 @@ int sweep()
     int y = 20;
 
     // invoke swap function below this comment
-	swap(&x, &y);
+    swap(&x, &y);
 
     // If you implemented swap() correctly below and invoked it correctly above, 
     //    x should have value 20 and y should have value 10 when you display them in the next statement.
@@ -23,7 +23,7 @@ int sweep()
 //Swap the values pointed to by the 2 pointers in the parameter list
 void swap(int* const ptr1, int* const ptr2)
 {
-	int temp = *ptr1;
-	*ptr1 = *ptr2;
-	*ptr2 = temp;
+    int temp = *ptr1;
+    *ptr1 = *ptr2;
+    *ptr2 = temp;
 }

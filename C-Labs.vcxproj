@@ -136,6 +136,7 @@
     <ClCompile Include="loan_calculator_3.19.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="ploy_two_5.07.c" />
+    <ClCompile Include="poker.c" />
     <ClCompile Include="roman_decoder.c" />
     <ClCompile Include="salary_calculator_3.20.c" />
     <ClCompile Include="swap.c" />

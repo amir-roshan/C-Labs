@@ -8,5 +8,5 @@
 #include "in_class.h"
 
 int main() {
-	turtle_game();
+	poker();
 }
